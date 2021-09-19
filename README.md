@@ -17,3 +17,4 @@ The speaker will be connected to ground & an output pin.
 
 ## HOW DOES IT WORK?
 When we touch the conductive object ( in our case the soda cans but you can use any conductive material and it will work) the capacitance rises, the sensor ( resistors ) will detect this rise and will send this information to the board, the board will then choose a certain sound to play and the speaker will play it.
+https://www.youtube.com/watch?v=wMYpshIueS8 
